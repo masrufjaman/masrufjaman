@@ -1,5 +1,5 @@
 ### Hi there, I'm Masruf 👋
-[![Website](https://img.shields.io/website?label=mjrabbi.blogspot.com&style=for-the-badge&url=httpsmjrabbi.blogspot.com)](https://mjrabbi.blogspot.com)
+[![Website](https://img.shields.io/website?label=mjrabbi.blogspot.com&style=for-the-badge)](https://mjrabbi.blogspot.com)
 
 - 🔭 I’m currently working on ... SQL, php
 - 🌱 I’m currently learning ... Database Management System
