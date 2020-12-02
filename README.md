@@ -1,6 +1,6 @@
 ### Hi there, I'm Masruf 👋
 [![Website](https://img.shields.io/website?label=mjrabbi.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mjrabbi.blogspot.com)
-[![Website](<img align="left" alt="SQL" width="26px" src="https://4.bp.blogspot.com/-dY4SbkJeOTU/Xx8QPV-5rrI/AAAAAAAAUmc/HkEN74s22L8qDAzpxyMX2I1ZD-RHFVMTgCK4BGAYYCw/s1600/LogoMakr_2zeZFL.png"/>)](https://mjrabbi.blogspot.com)
+[![Website]<img align="left" alt="SQL" width="26px" src="https://4.bp.blogspot.com/-dY4SbkJeOTU/Xx8QPV-5rrI/AAAAAAAAUmc/HkEN74s22L8qDAzpxyMX2I1ZD-RHFVMTgCK4BGAYYCw/s1600/LogoMakr_2zeZFL.png"/>](https://mjrabbi.blogspot.com)
 
 - 🔭 I’m currently working on ... SQL, php
 - 🌱 I’m currently learning ... Database Management System
