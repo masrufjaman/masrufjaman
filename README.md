@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning ... Database Management System
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Website](https://mjrabbi.blogspot.com)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Cricket/Badminton
 
 <br/>
