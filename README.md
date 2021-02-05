@@ -1,5 +1,6 @@
 ### Hi there, I'm Masruf 👋
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
+[![Gmail](https://img.shields.io/badge/<logo=gmail&logoColor=ffffff>-<Send Mail>-<BLACK>.svg)](https://shields.io/)
 <br/>
 
 I am currently working on **Python** 🐍
