@@ -31,5 +31,4 @@ I am currently working on **Python** 🐍
   <br>
 </p>
 
-![Masruf's Github stats](https://github-readme-stats.vercel.app/api?username=masrufjaman&show_icons=true&hide_border=true)
 ![Masruf's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrufjaman&layout=compact&hide_border=true)
