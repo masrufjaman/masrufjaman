@@ -23,10 +23,8 @@ I am currently working on **Python**🐍
 
 ---
 
-<p align="center">
-    *Follow me around the web:*
-   <br/>
-</p>
-   [Website](http://mjrabbi.blogspot.com/) • [LinkedIn](www.linkedin.com/in/masruf-jaman) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](masruf.jaman@northsouth.edu)
+*Follow me around the web:*
+<br/>
+[Website](http://mjrabbi.blogspot.com/) • [LinkedIn](www.linkedin.com/in/masruf-jaman) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](masruf.jaman@northsouth.edu)
 
 
