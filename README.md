@@ -31,4 +31,4 @@ I am currently working on **Python** 🐍
   <br>
 </p>
 
-![Masruf's Github stats](https://github-readme-stats.vercel.app/api?username=masrufjaman&show_icons=false&hide_border=true)
+![Masruf's Github stats](https://github-readme-stats.vercel.app/api?username=masrufjaman&show_icons=true&hide_border=false)
