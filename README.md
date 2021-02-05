@@ -26,15 +26,9 @@ I am currently working on **Python** 🐍
 <br/>
 
 <p align="center">
-  <b>Follow me around the web:</b><br>
+  <i>Follow me around the web:</i><br>
   <a href="http://mjrabbi.blogspot.com/">Website</a> •
-  <a href="#">LinkedIn</a> |
-  <a href="#">Link 3</a>
+  <a href="www.linkedin.com/in/masruf-jaman">LinkedIn</a> •
+  <a href="ww.facebook.com">Facebook</a>
   <br><br>
 </p>
-
-*Follow me around the web:*
-<br/>
-[Website](http://mjrabbi.blogspot.com/) • [LinkedIn](www.linkedin.com/in/masruf-jaman) • [Facebook](https://www.facebook.com/serverless)
-
-
