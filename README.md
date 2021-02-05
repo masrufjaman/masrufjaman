@@ -26,6 +26,6 @@ I am currently working on **Python**🐍
 <p align="center">
     *Follow me around the web:*
 <br/>
-[LinkedIn](www.linkedin.com/in/masruf-jaman) - [Website](http://mjrabbi.blogspot.com/)
+   [Website](http://mjrabbi.blogspot.com/) • [LinkedIn](www.linkedin.com/in/masruf-jaman) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](masruf.jaman@northsouth.edu)
 </p>
 
