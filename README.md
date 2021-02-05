@@ -28,7 +28,7 @@ I am currently working on **Python** 🐍
 <p align="center">
   <i>Follow me around the web:</i><br>
   <a href="http://mjrabbi.blogspot.com/">Website</a> •
-  <a href="www.linkedin.com/in/masruf-jaman">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/masruf-jaman/">LinkedIn</a> •
   <a href="ww.facebook.com">Facebook</a>
   <br><br>
 </p>
