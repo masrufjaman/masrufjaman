@@ -30,3 +30,5 @@ I am currently working on **Python** 🐍
   <a href="https://www.linkedin.com/in/masruf-jaman/">LinkedIn</a>
   <br>
 </p>
+
+![Masruf's Github stats](https://github-readme-stats.vercel.app/api?username=masrufjaman&show_icons=false&hide_border=true)
