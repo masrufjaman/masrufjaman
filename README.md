@@ -1,9 +1,9 @@
 ### Hi there, I'm Masruf 👋
 <br/>
 
-I am currently working on **Python**🐍
+I am currently working on **Python** 🐍
 - 📢 Interested in *Artificial Intelligence*
-- 🌱 Currently learning ... Django
+- ⏳ Currently learning ... Django
 - 🤔 Looking for help with ... AI
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Cricket/Badminton
