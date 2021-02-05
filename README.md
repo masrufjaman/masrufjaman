@@ -24,7 +24,12 @@ I am currently working on **Python** 🐍
 <br/>
 
 
-![Masruf's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrufjaman&layout=compact&hide_border=true)
+<details>
+  <summary>Most Used Languages!</summary>
+  
+  ![Masruf's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrufjaman&layout=compact&hide_border=true)
+</details>
+
 ---
 
 <p align="center">
