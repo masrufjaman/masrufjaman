@@ -2,10 +2,10 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
 <br/>
 
-I am currently working on **Web Development** 🐍
+I am currently working on **Web Development** 💻
 - 📢 Interested in *Artificial Intelligence*
-- ⏳ Currently learning ... React
-- 🤔 Looking for help with ... ML, AI
+- ⏳ Currently learning ... JS, React
+- 🤔 Looking for help with ... ML, AI, Blockchain
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Cricket/Badminton
 <br/>
