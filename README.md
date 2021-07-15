@@ -31,6 +31,8 @@ I am currently working on **Web Development** 💻
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Basic Calculator in Python - পাইথন ক্যালকুলেটর | Beginner Project](https://www.youtube.com/watch?v=61N56PwXxZY)
+- [How to Install or Create Virtual Environment for Django Project on Windows](https://www.youtube.com/watch?v=wbMXVEvSczY)
 <!-- YOUTUBE:END -->
 ---
 
