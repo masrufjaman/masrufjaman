@@ -25,14 +25,15 @@ I am currently working on **Web Development** 💻
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 <br/>
 
+![Masruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=masrufjaman&show_icons=true&hide_border=true)
 ![Masruf's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrufjaman&layout=compact&hide_border=true)
 ---
 
 <p align="center">
   <i>Connect me around the web:</i><br>
-  <a href="http://mjrabbi.blogspot.com/" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
-  <a href="https://www.linkedin.com/in/masruf-jaman/" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/JamanMasruf" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.youtube.com/channel/UC6ZdJDkfBJlTHrQExP0Xx3w" target="_blank"><img width="4%" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="http://mjrabbi.blogspot.com/" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+  <a href="https://www.linkedin.com/in/masruf-jaman/" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/JamanMasruf" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.youtube.com/channel/UC6ZdJDkfBJlTHrQExP0Xx3w" target="_blank"><img width="36px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <br>
 </p>
