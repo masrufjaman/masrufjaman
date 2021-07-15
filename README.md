@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./images/undraw_version_control_re_mg66.svg" height="175px"/></a>
+<a href="#"><img align="right" width="50%" height="auto" src="./images/undraw_version_control_re_mg66.svg" height="175px"/></a>
 
 ### Hi there, I'm Masruf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
@@ -30,9 +30,9 @@ I am currently working on **Web Development** 💻
 
 <p align="center">
   <i>Connect me around the web:</i><br>
-  <a href="http://mjrabbi.blogspot.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
-  <a href="https://www.linkedin.com/in/masruf-jaman/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/JamanMasruf" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.youtube.com/channel/UC6ZdJDkfBJlTHrQExP0Xx3w" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="http://mjrabbi.blogspot.com/" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+  <a href="https://www.linkedin.com/in/masruf-jaman/" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/JamanMasruf" target="_blank"><img width="4%" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.youtube.com/channel/UC6ZdJDkfBJlTHrQExP0Xx3w" target="_blank"><img width="4%" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <br>
 </p>
