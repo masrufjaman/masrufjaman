@@ -24,7 +24,9 @@ I am currently working on **Web Development** 💻
 <!-- csharp, go -->
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<!-- typescript, php, perl, ruby, scala -->
+<!-- typescript -->
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<!-- perl, ruby, scala -->
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <!-- swift, objectivec, clojure, rust, haskell, coffescript, elixir, erlang -->
 
