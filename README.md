@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
 <br/>
 
-I am currently working on [classification-of-bangla-comments-from-social-media-using-machine-learning-techniques](https://github.com/masrufjaman/classification-of-bangla-comments-from-social-media-using-machine-learning-techniques) project 💻
+I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH](https://cmhhfclinic.com/login) || [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/) || [INCEPTA MOBILE APP]() || [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) project 💻
 - 📢 Interested in *Artificial Intelligence*
 - ⏳ Currently learning ... ML, NLP
 - 🤔 Looking for help with ... ML, AI, Blockchain
