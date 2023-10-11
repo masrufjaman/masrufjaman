@@ -1,12 +1,12 @@
 <a href="#"><img align="right" width="50%" height="auto" src="./images/undraw_version_control_re_mg66.svg" height="175px"/></a>
 
-### Hi there, I'm Masruf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hey there, I'm Masruf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
 <br/>
 
-I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH](https://cmhhfclinic.com/login) || [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/) || [INCEPTA MOBILE APP]() || [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) project 💻
+I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a part of exciting projects like [PCCGDM-BADAS](https://pccgdm-badas.com/login), [CMH](https://cmhhfclinic.com/login), [INCEPTA MOBILE APP](), [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) and [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/). 💻
 - 📢 Interested in *Artificial Intelligence*
-- ⏳ Currently learning ... ML, NLP
+- ⏳ Currently learning ... Laravel
 - 🤔 Looking for help with ... ML, AI, Blockchain
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Cricket/Badminton
@@ -16,14 +16,14 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 
 <!-- Tools -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" />
+<!-- <img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" /> -->
 
 <!-- Programming Languages -->
-<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<!-- <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
 <!-- csharp, go -->
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<!-- <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> -->
 <!-- typescript -->
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <!-- perl, ruby, scala -->
@@ -32,10 +32,10 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 
 <!-- Frontend Development -->
 <!-- vuejs, react, svelte, angularjs, angular, backbonejs, bootstrap, vuetify -->
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<!-- <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> -->
 <!-- pug, gulp -->
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<!-- <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> -->
 <!-- redux, webpack, babel, tailwind, materialize, bulma, gtk, qt, wx_widgets, ember -->
 
 <!-- Backend Development -->
@@ -51,7 +51,7 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 <!-- mongodb -->
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <!-- postgresql, redis, oracle, cassandra, couchdb, hive, realm, mariadb, cockroachdb, elasticsearch -->
-<img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
+<!-- <img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /> -->
 <!-- mssql -->
 
 <!-- Data Visualization -->
@@ -59,9 +59,9 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 
 <!-- Devops -->
 <!-- aws, docker, jenkins  -->
-<img align="left" alt="gcp" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<!-- <img align="left" alt="gcp" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> -->
 <!-- kubernetes -->
-<img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<!-- <img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> -->
 <!-- azure, vagrant, circleci, travisci -->
 
 <!-- Backend as a Service(BaaS) -->
@@ -69,7 +69,7 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 <img align="left" alt="heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <!-- Framework -->
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+<img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
 <!-- dotnet, electron, symfony. laravel, codeigniter, rails, flask, quasar -->
 
 <!-- Testing -->
@@ -98,10 +98,10 @@ I am currently working on [PCCGDM-BADAS](https://pccgdm-badas.com/login) || [CMH
 ![Masruf's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrufjaman&layout=compact&hide_border=true)
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
-- [Basic Calculator in Python - পাইথন ক্যালকুলেটর | Beginner Project](https://www.youtube.com/watch?v=61N56PwXxZY)
-- [How to Install or Create Virtual Environment for Django Project on Windows](https://www.youtube.com/watch?v=wbMXVEvSczY)
+<!-- - [Basic Calculator in Python - পাইথন ক্যালকুলেটর | Beginner Project](https://www.youtube.com/watch?v=61N56PwXxZY) -->
+<!-- - [How to Install or Create Virtual Environment for Django Project on Windows](https://www.youtube.com/watch?v=wbMXVEvSczY) -->
 <!-- YOUTUBE:END -->
 ---
 
