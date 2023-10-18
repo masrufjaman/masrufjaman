@@ -19,20 +19,16 @@ I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a
 <img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="php" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
 <img align="left" alt="laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="left" alt="c" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
 <!-- Database -->
 <img align="left" alt="mysql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="sqlite" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />
 
 <!-- Frontend Development -->
 <img align="left" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="left" alt="codepen" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="wordpress" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
 
 <!-- Tools -->
-<img align="left" alt="vs_code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
 
 <!-- Mobile App Development -->
@@ -41,8 +37,6 @@ I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a
 
 <!-- AI/ML -->
 <img align="left" alt="flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
-<img align="left" alt="pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="kaggle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
 
@@ -53,7 +47,7 @@ I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a
 <!-- aws, docker, jenkins  -->
 
 <!-- Backend as a Service(BaaS) -->
-<img align="left" alt="heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />
+<!-- heroku, netlify -->
 
 <!-- Testing -->
 
