@@ -1,12 +1,12 @@
 <a href="#"><img align="right" width="50%" height="auto" src="./images/undraw_version_control_re_mg66.svg" height="175px"/></a>
 
 ### Hey there, I'm Masruf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masruf.jaman@northsouth.edu)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masrufofficials@gmail.com)
 <br/>
 
 I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a part of exciting projects like [PCCGDM-BADAS](https://pccgdm-badas.com/login), [CMH](https://cmhhfclinic.com/login), [INCEPTA MOBILE APP](), [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) and [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/). 💻
-- 📢 Interested in *Artificial Intelligence*
-- ⏳ Currently learning ... Laravel
+- 📢 Interested in *Data Science & AI*
+- ⏳ Currently learning ... Laravel & Power BI
 - 🤔 Looking for help with ... ML, AI, Blockchain
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Cricket/Badminton
@@ -14,83 +14,58 @@ I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a
 
 ### Favorite Programming Languages and Tools:
 
-<!-- Tools -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!-- <img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" /> -->
-
-<!-- Programming Languages -->
-<!-- <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
-<!-- csharp, go -->
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<!-- <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> -->
-<!-- typescript -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<!-- perl, ruby, scala -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<!-- swift, objectivec, clojure, rust, haskell, coffescript, elixir, erlang -->
-
-<!-- Frontend Development -->
-<!-- vuejs, react, svelte, angularjs, angular, backbonejs, bootstrap, vuetify -->
-<!-- <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> -->
-<!-- pug, gulp -->
-<!-- <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> -->
-<!-- redux, webpack, babel, tailwind, materialize, bulma, gtk, qt, wx_widgets, ember -->
-
-<!-- Backend Development -->
-<!-- nodejs, spring, express, graphql, kafka, solr, rabbitMQ, hadoop, nginx, openresty -->
-
-<!-- Mobile App Development -->
-<!-- android, flutter, dart, kotlin, nativescript, xamarin, reactnative, ionic, apachecordova -->
-
-<!-- AI/ML -->
-<!-- tensorflow, pytorch, opencv, scikit_learn -->
+<!-- Programming Languages & Frameworks -->
+<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="php" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
+<img align="left" alt="laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" alt="c" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
 <!-- Database -->
-<!-- mongodb -->
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<!-- postgresql, redis, oracle, cassandra, couchdb, hive, realm, mariadb, cockroachdb, elasticsearch -->
-<!-- <img align="left" alt="sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /> -->
-<!-- mssql -->
+<img align="left" alt="mysql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="sqlite" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />
+
+<!-- Frontend Development -->
+<img align="left" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="left" alt="codepen" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="wordpress" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
+
+<!-- Tools -->
+<img align="left" alt="vs_code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+
+<!-- Mobile App Development -->
+<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="android_studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" />
+
+<!-- AI/ML -->
+<img align="left" alt="flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="kaggle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
 
 <!-- Data Visualization -->
-<!-- d3js, chartjs, canvasjs, kibana, grafana -->
+<!-- PowerBi, CanvaJS -->
 
 <!-- Devops -->
 <!-- aws, docker, jenkins  -->
-<!-- <img align="left" alt="gcp" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> -->
-<!-- kubernetes -->
-<!-- <img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> -->
-<!-- azure, vagrant, circleci, travisci -->
 
 <!-- Backend as a Service(BaaS) -->
-<!-- firebase, appwrite, amplify -->
-<img align="left" alt="heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-
-<!-- Framework -->
-<img align="left" alt="django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
-<!-- dotnet, electron, symfony. laravel, codeigniter, rails, flask, quasar -->
+<img align="left" alt="heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />
 
 <!-- Testing -->
-<!-- cypress, selenium, jest, mocha, puppeteer, karma, jasmine -->
 
 <!-- Software -->
-<!-- illustrator, photoshop, xd, figma, blender, sketch, invision, framer, matlab, postman -->
 
 <!-- Static Site Generators -->
-<!-- gatsby, gridsome, hugo, jekyll, nextjs, nuxtjs, 11ty, scully, sculpin, sapper, vuepress, hexo, middleman -->
 
 <!-- Game Engines -->
-<!-- unity, unreal -->
 
 <!-- Automation -->
-<!-- zapier -->
 
 <!-- Other -->
-<!-- linux -->
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<!-- arduino -->
 <br/>
 <br/>
 
