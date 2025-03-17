@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=0366d6&logo=gmail&logoColor=ffffff)](mailto:masrufofficials@gmail.com)
 <br/>
 
-I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a part of exciting projects like [PCCGDM-BADAS](https://pccgdm-badas.com/login), [CMH](https://cmhhfclinic.com/login), [INCEPTA MOBILE APP](), [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) and [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/). 💻
+I'm thrilled to work as a Software Engineer | Project Manager at Enact Business Solutions and be a part of exciting projects like [PCCGDM-BADAS](https://pccgdm-badas.com/login), [CMH](https://cmhhfclinic.com/login), [INCEPTA MOBILE APP](), [PLANETARY HEALTH ACADEMIA](https://planetaryhealthacademia.org/) and [PHARMACY OF THE WORLD](https://pharmacyoftheworld.com/). 💻
 - 📢 Interested in *Data Science & AI*
 - ⏳ Currently learning ... Laravel & Power BI
 - 🤔 Looking for help with ... ML, AI, Blockchain
@@ -78,7 +78,8 @@ I'm thrilled to work as a Software Engineer at Enact Business Solutions and be a
   <i>Connect with me around the web:</i><br>
   <a href="http://mjrabbi.blogspot.com/" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
   <a href="https://www.linkedin.com/in/masruf-jaman/" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/JamanMasruf" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!--   <a href="https://twitter.com/JamanMasruf" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+  <a href="https://x.com/MasrufJaman" target="_blank"><img width="36px" src="https://img.icons8.com/fluent/48/000000/x.png"/></a>
   <a href="https://www.youtube.com/channel/UC6ZdJDkfBJlTHrQExP0Xx3w" target="_blank"><img width="36px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <br>
 </p>
